@@ -1,6 +1,6 @@
 # 📊 Excel Sales Dashboard with VBA Integration  
 
-![Excel Dashboard](excel .png)  
+![Excel Dashboard](excel.png)  
 
 ## 🚀 Project Overview  
 This project presents a **Sales Dashboard** in Excel, where I cleaned and analyzed the data, created visual insights, and automated certain functionalities using **VBA (Visual Basic for Applications).**  
