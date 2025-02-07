@@ -21,8 +21,6 @@ This project presents a **Sales Dashboard** in Excel, where I cleaned and analyz
 - **Microsoft Excel** (Data Cleaning, Pivot Tables, Charts)  
 - **VBA Macros** (For checkbox automation)  
 
-## 📸 Dashboard Preview  
-![Dashboard Preview](excel.png)  
 
 ## 📥 Installation & Usage  
 1. Download or clone the repository  
